@@ -1,2 +1,5 @@
 # DiscordRPCForVisualStudio2022
-DiscordRPCForVisualStudio2022 by Endrophyon(Original Code by Discord Company)
+
+Reimplementation Discord RPC for Visual Studio 2022... Enjoy!!!
+
+[Original Code](https://github.com/discord/discord-rpc)
